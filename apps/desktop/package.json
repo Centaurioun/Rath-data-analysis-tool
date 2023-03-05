@@ -76,6 +76,6 @@
   "license": "GPL-3.0-or-later",
   "devDependencies": {
     "electron": "^7.1.9",
-    "electron-builder": "^22.2.0"
+    "electron-builder": "^24.0.0"
   }
 }
